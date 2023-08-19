@@ -1,0 +1,13 @@
+
+.completed-task {
+    text-decoration: line-through;
+  }
+  
+  .list-group-item {
+    margin-top: 10px;
+  }
+  
+  .navbar {
+    margin-bottom: 20px;
+  }
+  
